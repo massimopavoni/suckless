@@ -1,0 +1,6 @@
+[submodule "dwm"]
+	path = dwm
+	url = https://github.com/massimopavoni/dwm
+[submodule "dmenu"]
+	path = dmenu
+	url = https://github.com/massimopavoni/dmenu
