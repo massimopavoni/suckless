@@ -2,7 +2,5 @@
 
 while true
 do
-	feh --bg-fill ~/Pictures/Wallpapers/green_arch.png &
-	picom &
 	dwm 2> ~/.dwmlog
 done
