@@ -7,3 +7,6 @@
 [submodule "slock"]
 	path = slock
 	url = https://github.com/massimopavoni/slock
+[submodule "slstatus"]
+	path = slstatus
+	url = https://github.com/massimopavoni/slstatus
